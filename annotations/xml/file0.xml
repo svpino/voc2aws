@@ -1,12 +1,12 @@
 <annotation>
 	<folder>n02131653</folder>
-	<filename>n02131653_262</filename>
+	<filename>n02131653_508</filename>
 	<source>
 		<database>ImageNet database</database>
 	</source>
 	<size>
 		<width>500</width>
-		<height>375</height>
+		<height>333</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -16,10 +16,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>91</xmin>
-			<ymin>111</ymin>
-			<xmax>398</xmax>
-			<ymax>314</ymax>
+			<xmin>149</xmin>
+			<ymin>0</ymin>
+			<xmax>420</xmax>
+			<ymax>318</ymax>
 		</bndbox>
 	</object>
 </annotation>
